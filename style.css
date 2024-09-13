@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+ul {
+    list-style: square;
+
+
+    display: flex;
+    align-items: center;
+
+    background-color: #444af6;
+}
